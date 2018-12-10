@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ABiteofChina:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7767159-05a3-4135-8515-871ac70e34c6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ABiteofChina$Tomcat_8_0_44.ic" NAME="Tomcat 8.0.44 Coverage Results" MODIFIED="1542009407834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2134763434">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.128" value="1" />
+          <entry key="project.open.time.131" value="2" />
+          <entry key="project.open.time.136" value="2" />
+          <entry key="project.open.time.142" value="2" />
+          <entry key="project.open.time.143" value="1" />
+          <entry key="project.open.time.144" value="1" />
+          <entry key="project.open.time.147" value="1" />
+          <entry key="project.open.time.159" value="1" />
+          <entry key="project.open.time.161" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="css" value="2" />
+          <entry key="form" value="1" />
+          <entry key="html" value="1" />
+          <entry key="java" value="564" />
+          <entry key="jsp" value="170" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="CSS" value="2" />
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="564" />
+          <entry key="JSP" value="170" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="23298" />
+          <entry key="JSP" value="2143" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="html" value="1" />
+          <entry key="java" value="23298" />
+          <entry key="jsp" value="2143" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1412462428">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1908413847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/AdminDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/OrderDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total</find>
+      <find>imgurl</find>
+      <find>condition</find>
+      <find>findProduct</find>
+      <find>shoppingItems</find>
+      <find>check</find>
+      <find>index</find>
+      <find>pro</find>
+      <find>我的</find>
+      <find>所有</find>
+      <find>ProductServlet</find>
+      <find>book</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\JAVAProject\WebStore\ABiteofChina\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ShoppingcarDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/ShoppingcarService.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/domain/Shoppingcar.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/ShoppingcarServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/products.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/domain/Order.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/domain/OrderItem.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/ShoppingitemDao.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/ShoppingitemService.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/ShoppingitemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ShoppingitemDaoImpl.java" />
+        <option value="$PROJECT_DIR$/web/user/ordersdetail.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/OrderItemService.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/OrderItemDao.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/OrderItemDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/OrderItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/user/orderdetail.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/web/admin/product/productList.jsp" />
+        <option value="$PROJECT_DIR$/web/admin/admin/adminList.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/filter/AdminFilter.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/filter/UserFilter.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/CartServlet.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/MultipartUserProductServlet.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/admin/AdminServlet.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/OrderServlet.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/searchProducts.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ProductDaoImpl.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/user/myOrders.jsp" />
+        <option value="$PROJECT_DIR$/web/user/shoppingcart.jsp" />
+        <option value="$PROJECT_DIR$/web/user/placeOrder.jsp" />
+        <option value="$PROJECT_DIR$/web/user/personal.jsp" />
+        <option value="$PROJECT_DIR$/web/productdetail.jsp" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/util/TransactionUtils.java" />
+        <option value="$PROJECT_DIR$/../ThreadlocalDemo/src/TransactionUtils.java" />
+        <option value="$PROJECT_DIR$/../ThreadlocalDemo/src/ThreadlocalDemo.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/util/FileUploadUtil.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/util/C3P0Utils.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/util/OrderIdUtil.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/util/TransactionUtil.java" />
+        <option value="$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/OrderServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="465" />
+    <option name="y" value="19" />
+    <option name="width" value="1021" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java11prj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java11prj" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java11prj" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ABiteofChina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ABiteofChina" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542608436984" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\web\user" />
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\web\WEB-INF\lib" />
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\web\WEB-INF" />
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\src\controller\filter" />
+      <recent name="C:\JAVAProject\WebStore\ABiteofChina\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderIdUtil.testUUIDOid">
+    <configuration name="ThreadlocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadlocalDemo" />
+      <module name="ThreadlocalDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderIdUtil.testUUIDOid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ABiteofChina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cskaoyan.java11prj.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cskaoyan.java11prj.util" />
+      <option name="MAIN_CLASS_NAME" value="cskaoyan.java11prj.util.OrderIdUtil" />
+      <option name="METHOD_NAME" value="testUUIDOid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ABiteofChina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestUserDao" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.testFindBye" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ABiteofChina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestUserDao" />
+      <option name="METHOD_NAME" value="testFindBye" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ABiteofChina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestUserDao" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/ABiteofChina/index.jsp" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="ABiteofChina:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ABiteofChina" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_44_ABiteofChina" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56389" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ABiteofChina:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.0.44" />
+      <item itemvalue="JUnit.TestUserDao.testUpdate" />
+      <item itemvalue="JUnit.TestUserDao.testFindById" />
+      <item itemvalue="JUnit.TestUserDao.testFindBye" />
+      <item itemvalue="Application.ThreadlocalDemo" />
+      <item itemvalue="JUnit.OrderIdUtil.testUUIDOid" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderIdUtil.testUUIDOid" />
+        <item itemvalue="Application.ThreadlocalDemo" />
+        <item itemvalue="JUnit.TestUserDao.testFindBye" />
+        <item itemvalue="JUnit.TestUserDao.testFindById" />
+        <item itemvalue="JUnit.TestUserDao.testUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7767159-05a3-4135-8515-871ac70e34c6" name="Default Changelist" comment="" />
+      <created>1541582208591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541582208591</updated>
+      <workItem from="1541582282943" duration="171000" />
+      <workItem from="1541583661105" duration="23157000" />
+      <workItem from="1541681213228" duration="12338000" />
+      <workItem from="1541722557695" duration="45339000" />
+      <workItem from="1541805957855" duration="22346000" />
+      <workItem from="1541846246554" duration="13215000" />
+      <workItem from="1541943051506" duration="8580000" />
+      <workItem from="1541984760254" duration="19001000" />
+      <workItem from="1542007593283" duration="28425000" />
+      <workItem from="1542070348475" duration="31029000" />
+      <workItem from="1542156895711" duration="2683000" />
+      <workItem from="1542163883534" duration="765000" />
+      <workItem from="1542170548399" duration="20917000" />
+      <workItem from="1542242491525" duration="45810000" />
+      <workItem from="1542327751688" duration="26176000" />
+      <workItem from="1542504414839" duration="6532000" />
+      <workItem from="1542545768743" duration="4840000" />
+      <workItem from="1542588660549" duration="1634000" />
+      <workItem from="1542608962158" duration="1654000" />
+      <workItem from="1543281794412" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestUserDao_testUpdate - 2018.11.13 at 19h 54m 24s.xml">
+      <configuration name="TestUserDao.testUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindByName - 2018.11.13 at 19h 59m 38s.xml">
+      <configuration name="TestUserDao.testFindByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindByName - 2018.11.13 at 19h 59m 59s.xml">
+      <configuration name="TestUserDao.testFindByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindByName - 2018.11.13 at 20h 00m 13s.xml">
+      <configuration name="TestUserDao.testFindByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testUpdate - 2018.11.13 at 20h 00m 24s.xml">
+      <configuration name="TestUserDao.testUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindById - 2018.11.13 at 20h 02m 11s.xml">
+      <configuration name="TestUserDao.testFindById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindBye - 2018.11.13 at 20h 03m 41s.xml">
+      <configuration name="TestUserDao.testFindBye" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindBye - 2018.11.13 at 20h 04m 00s.xml">
+      <configuration name="TestUserDao.testFindBye" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_testFindBye - 2018.11.13 at 20h 30m 31s.xml">
+      <configuration name="TestUserDao.testFindBye" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderIdUtil_testUUIDOid - 2018.11.18 at 21h 34m 55s.xml">
+      <configuration name="OrderIdUtil.testUUIDOid" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="315074000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.5026738" side_tool="true" weight="0.28473282" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.5183413" side_tool="true" weight="0.26412213" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4816587" visible="true" weight="0.23740458" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3014354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33597463" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49923664" weight="0.49122807" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32854864" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50076336" side_tool="true" weight="0.2567783" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.23003195" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32854864" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973544" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977098" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestCategoryDaoImpl.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestProductDaoImpl.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/admin/AdminServlet.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestUserDao.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/admin/AdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="67" column="51" lean-forward="true" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JavaEE/apache-tomcat-8.0.44/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class" />
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/OrderItemDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/OrderItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/register.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/orderdetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="152" column="89" selection-start-line="152" selection-start-column="89" selection-end-line="152" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/placeOrder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="153" column="23" lean-forward="true" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/shoppingcart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="179" column="112" selection-start-line="179" selection-start-column="85" selection-end-line="179" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/personal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="158" column="93" selection-start-line="158" selection-start-column="79" selection-end-line="158" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user/myOrders.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="191" column="108" selection-start-line="191" selection-start-column="94" selection-end-line="191" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="144" column="88" selection-start-line="144" selection-start-column="88" selection-end-line="144" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/searchProducts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="142" column="93" selection-start-line="142" selection-start-column="79" selection-end-line="142" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/productdetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/products.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="266" column="41" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Program Files/java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="144" column="39" selection-start-line="144" selection-start-column="39" selection-end-line="144" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ThreadlocalDemo/src/TransactionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ThreadlocalDemo/src/ThreadlocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ThreadlocalDemo/src/testThreadlocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/util/FileUploadUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/util/C3P0Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/CartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/MultipartUserProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/util/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/util/OrderIdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/admin/MultipartProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/admin/ProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/controller/web/user/OrderServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="132" column="12" lean-forward="true" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Program Files/java/jdk1.8.0_181/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3526">
+          <caret line="257" column="48" selection-start-line="257" selection-start-column="35" selection-end-line="257" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/DbUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/util/TransactionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/AdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/CategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/OrderItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ProductDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4826">
+          <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ShoppingcarDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/ShoppingcarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/ShoppingitemDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2132">
+          <caret line="133" column="30" lean-forward="true" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/ShoppingitemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestAdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/OrderDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cskaoyan/java11prj/dao/impl/AdminDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ABiteofChina:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ThreadlocalDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
